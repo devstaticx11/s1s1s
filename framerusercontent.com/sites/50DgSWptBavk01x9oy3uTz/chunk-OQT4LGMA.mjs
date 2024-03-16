@@ -1,0 +1,2 @@
+var e=a=>({description:"Unleash your creativity like never before with Framer being part of the first tournament even made on the platform. $1000 cash prize, Framer goodies, Discounts & giveaways and much more.",favicon:new URL("https://framerusercontent.com/images/oyYkGgGPt6RFFyaynXOoNDuwJM.png").href,socialImage:new URL("https://framerusercontent.com/images/Ye40Y94cJCbHHPUlJjZ6iUSXTQ.png").href,title:"Framer Battles - Framer Tournament"}),o=e;export{o as a};
+//# sourceMappingURL=chunk-OQT4LGMA.mjs.map
